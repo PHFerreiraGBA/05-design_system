@@ -1,6 +1,6 @@
 {
-  "name": "@phdesignsys/tokens",
-  "version": "1.0.1",
+  "name": "@ignite-ui/tokens",
+  "version": "2.0.0",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
@@ -15,8 +15,8 @@
   "type": "commonjs",
   "description": "",
   "devDependencies": {
-    "@phdesignsys/ts-config": "*",
-    "@phdesignsys/eslint-config": "*",
+    "@ignite-ui/ts-config": "*",
+    "@ignite-ui/eslint-config": "*",
     "tsup": "^8.4.0",
     "typescript": "^5.8.2"
   }

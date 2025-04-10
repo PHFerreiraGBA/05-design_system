@@ -7,5 +7,5 @@
   "access": "public",
   "baseBranch": "main",
   "updateInternalDependencies": "patch",
-  "ignore": ["@phdesignsys/docs"]
+  "ignore": ["@ignite-ui/docs"]
 }
