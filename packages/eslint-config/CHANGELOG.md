@@ -1,5 +1,11 @@
 # @phsesignsys/eslint-config
 
+## 3.0.0
+
+### Major Changes
+
+- Trying to add Changesets again
+
 ## 2.0.0
 
 ### Major Changes
